@@ -1,6 +1,6 @@
 #HTML-Form
 <br>
-This is my first github repo. Login and Contact US Web Page. <br/>
+This is my first github repo. Login and Contact Us Web Page. <br/>
 
 <br>
 #Samplepictures:<br/>
